@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994237629160",
+    "project_id": "leafvision-a63c2",
+    "storage_bucket": "leafvision-a63c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994237629160:android:dda7dcb0228d2dc589bf5d",
+        "android_client_info": {
+          "package_name": "com.company.leafVision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-hqkZpq_JTBg8jd_1myWuUiKrMd0FzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
